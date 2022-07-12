@@ -1,0 +1,21 @@
+body{
+        background:#cecece;
+    }
+
+p{
+    color: rgb(34,34,34);
+}
+
+.foto{
+    width: 215px;
+    border: 2px solid#FFFFFF;
+    border-radius: 50% 0 50% 0;
+
+    /*
+    border-widht: 5px;
+    border-style: solid;
+    border-color: black;
+    
+    */
+}
+

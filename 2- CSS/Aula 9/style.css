@@ -1,0 +1,71 @@
+body{
+    background:#dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34 ,34, 34);
+
+}
+
+.container{
+    width: 900px;
+    margin:0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    
+}
+
+.foto{
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 60%;
+    margin:20px 20px 0 30px ;
+    box-shadow: 0px 0px 10px #959595;
+
+}
+
+h1{
+    margin: 0;
+    margin-top: 0px;
+    letter-spacing: -1px; 
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-style:italic;
+    color:rgb(73 73 73);
+    font-weight: 100px;  
+    letter-spacing: -1px; 
+
+}
+
+h3{
+    margin-top: 30px;
+
+}
+
+p{
+    line-height: 25px;
+}
+
+ul{
+    margin-top: -10px;
+    font-family:serif;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social-icons{
+    width: 20px;
+}
+
+.github{
+    margin: 0 15px 0 15px ;
+}
